@@ -1,0 +1,30 @@
+h1 {
+    font-size: 50px;
+    color: #dd120bcb;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p:hover {
+    transition-duration: 1s;
+    color: rgb(167, 18, 197);
+    font-size: 20px;
+}
+
+.oval {
+    background-color: red;
+    border: 5px solid rgb(10, 228, 181);
+    height: 140px;
+    width: 300px;
+}
+
+.oval:hover {
+    background-color:rgb(10, 228, 181);
+    border: 5px solid rgb(197, 30, 44);
+}
+
+div {
+    text-align: center;
+}
